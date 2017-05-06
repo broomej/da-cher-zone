@@ -1,5 +1,11 @@
 # Twitter app Oath credentials
-credentials/
+credentials.py
+
+# Image library
+/img
+
+# Exported images
+/export
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
